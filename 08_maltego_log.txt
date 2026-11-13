@@ -1,0 +1,5 @@
+# Maltego Graph (Desktop) 4.13.0 - Transform Output (transcribed from screenshot)
+[11/11/26, 12:33 PM] INFO Running transform [Utilities] To Emails @domain [Search Engine] on 1 entities (from entity "networkwalks.com")
+[11/11/26, 12:33 PM] INFO ---[ Unified Credits ]--- : You have consumed 10 credits. You have 190 credits remaining.
+[11/11/26, 12:33 PM] INFO Transform [Utilities] To Emails @domain [Search Engine] completed in 17 s 177 ms with 1 entity returned
+Result: info@networkwalks.com
